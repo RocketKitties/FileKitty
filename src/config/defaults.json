@@ -57,7 +57,7 @@
 			"2025-02-07": "downloads/FileKitty_2025-02-07.zip"
 		},
 		"development": {
-			"GitHub": "https://github.com/RocketKitty/FileKitty"
+			"GitHub": "https://github.com/RocketKitties/FileKitty"
 		}
 	},
 
@@ -76,7 +76,7 @@
 	"settings": {
 		"enable_notifications": true,
 		"mute_sounds": false,
-		"volume": 5
+		"volume": 1
 	},
 
 	"sharing": {
